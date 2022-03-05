@@ -33,3 +33,5 @@
 
 # local dev env dir
 Local
+.vs/
+.vscode/
